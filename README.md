@@ -12,7 +12,8 @@ Detailed Manual containing i) sample preparation protocol, ii) introduction to u
 
 ### Learn how to use ThunderFISH with test data
 Download the test data and follow the instruction in the manual.
-https://drive.google.com/drive/folders/1Mi4qL1LLaGeOzjwV3k-8RKoDIH0qZpJG?usp=sharing - folder to test data 
+
+https://drive.google.com/drive/folders/1Mi4qL1LLaGeOzjwV3k-8RKoDIH0qZpJG?usp=sharing - folder containing test data 
 
 ### For more information check the associated publication:
 Dobrinic et al., 2020
