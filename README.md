@@ -15,6 +15,6 @@ Download the test data and follow the instruction in the manual.
 
 https://drive.google.com/open?id=1Mi4qL1LLaGeOzjwV3k-8RKoDIH0qZpJG - folder containing test data 
 
-### For more information check the associated publication:
+### For more information and citation check the associated publication:
 Dobrinic P, Szczurek AT, Klose RJ, 2020, PRC1 drives Polycomb-mediated gene repression by controlling transcription initiation and burst frequency - https://www.biorxiv.org/content/10.1101/2020.10.09.333294v1
 
