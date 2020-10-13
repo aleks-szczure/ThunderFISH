@@ -11,7 +11,7 @@ ThunderFISH is a pre-processing tool that extracts 2D single-cell RNA-FISH image
 Detailed Manual containing i) sample preparation protocol, ii) introduction to how to use the ThunderFISH ImageJ script on test data.
 
 ### Learn how to use ThunderFISH with test data
-Download the test data and follow the instruction in the manual.
+Download the test data and follow the instruction in the manual (.pdf file).
 
 https://drive.google.com/open?id=1Mi4qL1LLaGeOzjwV3k-8RKoDIH0qZpJG - folder containing test data 
 
